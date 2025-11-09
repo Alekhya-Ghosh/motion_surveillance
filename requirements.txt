@@ -1,0 +1,35 @@
+# Computer Vision & Image Processing
+opencv-python==4.8.1.78
+numpy==1.24.3
+scipy==1.10.1
+
+# Deep Learning & Neural Networks
+torch==2.0.1
+torchvision==0.15.2
+
+# Alternative: TensorFlow (if preferred over PyTorch)
+# tensorflow==2.13.0
+# tensorflow-gpu==2.13.0  # for GPU support
+
+# Additional Utilities
+pillow==10.0.0
+scikit-image==0.21.0
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Performance & Data Processing
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Video Processing (optional)
+moviepy==1.0.3
+ffmpeg-python==0.2.0
+
+# Utilities
+tqdm==4.65.0
+pyyaml==6.0
+
+streamlit==1.28.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+pillow==10.0.0
